@@ -104,9 +104,6 @@ VITE_BACKEND_URL=http://localhost:3005/api/v1
     ```
     The frontend will be available at `http://localhost:5173`.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
 
 ---
 *Created with ❤️ by pyschonoice*
